@@ -1,0 +1,12 @@
+/auxil
+/.idea
+/.vs
+*.log
+*.aux
+*.toc
+*.synctex.gz
+*.synctex.gz.sum.synctex
+
+/out
+*.pdf
+
